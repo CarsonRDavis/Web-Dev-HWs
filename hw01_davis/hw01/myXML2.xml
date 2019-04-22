@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="myXSLT2.xslt"?>
+<VideoGames>
+  <Game>
+    
+    <Name>Super Smash Brothers Ultimate</Name>
+    
+    <Consoles>
+      <Console>Nintendo Switch</Console>
+    </Consoles>
+    
+    <Developer>Nintendo</Developer>
+    
+    <ReleaseDate>
+      <Month>December</Month>
+      <Day>7</Day>
+      <Year>2018</Year>
+    </ReleaseDate>
+    
+  </Game>
+  
+  <Game>
+    
+    <Name>BioShock Infinite</Name>
+    
+    <Consoles>
+      <Console>PC</Console>
+      <Console>Xbox 360</Console>
+      <Console>PS3</Console>
+    </Consoles>
+    
+    <Developer>Irrational Games</Developer>
+
+    <ReleaseDate>
+      <Month>March</Month>
+      <Day>26</Day>
+      <Year>2013</Year>
+    </ReleaseDate>
+    
+  </Game>
+
+  <Game>
+
+    <Name>Bloodborne</Name>
+    
+    <Consoles>
+      <Console>PS4</Console>
+    </Consoles>
+    
+    <Developer>From Software</Developer>
+
+    <ReleaseDate>
+      <Month>March</Month>
+      <Day>24</Day>
+      <Year>2015</Year>
+    </ReleaseDate>
+
+  </Game>
+  
+</VideoGames>

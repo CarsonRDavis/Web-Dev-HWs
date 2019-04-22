@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Javascript Example</title>
+	<link rel="stylesheet" type="text/css" href="jsExampleCSS.css" />
+	<script type="text/javascript" src="jsExample.js"></script>
+</head>
+<body>
+	<p><a href="default.html">HW 1</a><strong> > Javascript Example</strong></p>
+
+	<h1>Book Order Form</h1>
+
+	<table>
+		<tr>
+			<td><strong>Select Books<br />
+				and/or Supply<br />
+				Book title and<br />
+				price</strong></td>
+			<td>
+				<select multiple id="books">
+					<option value="20">Walden Pond</option>
+					<option value="15">Zen and the Art...</option>
+					<option value="8">The Razor's Edge</option>
+					<option value="15">The Poisonwood Bible</option>
+					<option value="10">Wuthering Heights</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+				<p>
+					Book<input type="text" id="book" />
+					Price<input type="text" id="price" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Options</strong></td>
+			<td>
+				<input name="checkbox" type="checkbox" id="rushOrder" value="10" />Rush Order
+				<input name="checkbox" type="checkbox" id="giftWrapped" value="5"/> Gift Wrap
+
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Customer Type</strong></td>
+			<td>
+				<input type="radio" name="customer" value="0" checked="checked"/>
+				General
+				<input type="radio" name="customer" value="10"/>
+				Government
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Ship to</strong></td>
+			<td>
+				<select id="states">
+					<option value="5">NY</option>
+					<option value="7">CA</option>
+					<option value="3">SC</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>Purchase Details:</td>
+		</tr>
+		<tr>
+			<td>
+				<button type="button" onclick="printOrder()">Purchase</button>
+			</td>
+			<td>
+				<textarea rows="6" id="output" cols="50"></textarea>
+			</td>
+		</tr>
+			</table>
+
+</body>
+</html>

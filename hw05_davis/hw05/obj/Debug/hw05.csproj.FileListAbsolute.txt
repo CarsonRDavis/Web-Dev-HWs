@@ -1,0 +1,168 @@
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\hw05.dll.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\hw05.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\hw05.pdb
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csc.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csc.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csc.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csi.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csi.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\csi.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.Managed.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.AppContext.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Collections.Immutable.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Console.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.IO.Compression.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.IO.FileSystem.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.IO.Pipes.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Reflection.Metadata.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.AccessControl.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Claims.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Security.Principal.Windows.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.ValueTuple.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Xml.XmlDocument.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Xml.XPath.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\vbc.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\vbc.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\vbc.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\VBCSCompiler.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\roslyn\VBCSCompiler.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\obj\Debug\hw05.csprojAssemblyReference.cache
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\obj\Debug\hw05.csproj.CoreCompileInputs.cache
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\obj\Debug\hw05.csproj.CopyComplete
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\obj\Debug\hw05.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05\hw05\obj\Debug\hw05.pdb
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\hw05.dll.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\hw05.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\hw05.pdb
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csc.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csc.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csc.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csi.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csi.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\csi.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.Managed.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.AppContext.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Collections.Immutable.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Console.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.IO.Compression.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.IO.FileSystem.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.IO.Pipes.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Reflection.Metadata.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.AccessControl.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Claims.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Security.Principal.Windows.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.ValueTuple.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Xml.XmlDocument.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Xml.XPath.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\vbc.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\vbc.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\vbc.rsp
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\VBCSCompiler.exe
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\roslyn\VBCSCompiler.exe.config
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\obj\Debug\hw05.csprojAssemblyReference.cache
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\obj\Debug\hw05.csproj.CoreCompileInputs.cache
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\obj\Debug\hw05.csproj.CopyComplete
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\obj\Debug\hw05.dll
+G:\eDataClasses\CS 3340 - Spring 2019\topics\04_Database_1\websites\hw05_shell\hw05\obj\Debug\hw05.pdb
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\hw05.dll.config
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\hw05.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\hw05.pdb
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csc.exe
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csc.exe.config
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csc.rsp
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csi.exe
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csi.exe.config
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\csi.rsp
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.AppContext.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Collections.Immutable.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Console.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.IO.Compression.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.IO.FileSystem.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.IO.Pipes.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Reflection.Metadata.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.AccessControl.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Claims.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.ValueTuple.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Xml.XPath.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\vbc.exe
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\vbc.exe.config
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\vbc.rsp
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\VBCSCompiler.exe
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\roslyn\VBCSCompiler.exe.config
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\obj\Debug\hw05.csprojAssemblyReference.cache
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\obj\Debug\hw05.csproj.CoreCompileInputs.cache
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\obj\Debug\hw05.csproj.CopyComplete
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\obj\Debug\hw05.dll
+C:\Documents\CS\CS3340\Homeworks\hw05_davis\hw05\obj\Debug\hw05.pdb

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JSON Example</title>    
+</head>
+<body>
+    <p><a href="default.html">HW 1</a> < JSON Example</p>
+    <h1>JSON Example</h1>
+    <p>This program shows what the JSON object looks like, and how the variables can be stored/called. I was unsure, what you really wanted for this page, and this is the best that I could come up with.</p>
+    <p id="display"></p>
+    <script>
+        var person = '{ "name": "Carson", "age": 20, "city": "Valdosta" }';
+        var personObj = JSON.parse(person);
+        var people = [];
+        var personString = JSON.stringify(personObj);
+        people.push(personObj);
+        var msg = "How the JSON object is created/stored: " + personString + "\nObject Name: " + people[0].name +
+            "\nObject Age: " + people[0].age + "\nObject City: " + people[0].city;
+        document.getElementById("display").innerHTML = msg;
+    </script>
+</body>
+</html>

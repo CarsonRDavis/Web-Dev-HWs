@@ -1,0 +1,40 @@
+﻿body {
+    background-color: #CCCCFF;
+}
+
+.inner {
+    border: 25px solid #9999ff;
+    padding: 5px;
+    background-color: black;
+}
+
+.outer {
+    border: 35px solid #CCCCFF;
+    background-color: #CC99FF;
+    padding: 35px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table tr td {
+    background-color: #FFFFCC;
+    border: 25px solid #9999FF;
+    padding: 15px;
+    font-family: Verdana;
+}
+
+.setRed {
+    color: red;
+}
+
+.space{
+    font-size:45px;
+    letter-spacing:15px;
+    text-align:center;
+}
+
+.smaller{
+    font-size:12px;
+}
